@@ -1,0 +1,40 @@
+[Eagle]
+Version="07 03 00"
+Platform="Linux"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/GeekAmmo.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/LilyPad-Wearables.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-Aesthetics.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-AnalogIC.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-Boards.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-Capacitors.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-Connectors.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-DigitalIC.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-Displays.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-Electromechanical.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-FreqCtrl.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-LED.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-Passives.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-PowerIC.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-RF.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-Resistors.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-Retired.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/SparkFun-Sensors.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/User-Submitted.lbr"
+UsedLibrary="/home/azyth/Documents/Code/eagle/lib/adafruit.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="259 235 1135 850"
+State=2
+Number=0
+
+[Desktop]
+Screen="1600 900"
+Window="Win_1"
